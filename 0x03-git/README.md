@@ -5,6 +5,12 @@
 - [Project Description](#project-description)
 - [Tasks](#tasks)
 	- [0. Create and setup your Git and GitHub account](#0)
+	- [1. Repo-session](#1)
+	- [2. Coding fury road](#2)
+	- [3. Collaboration is the base of a company](#3)
+	- [4. Collaboration: be up to date](#4)
+	- [5. HAAA what did you do???](#5)
+	- [6. Never push too much](#6)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -83,6 +89,37 @@ $ git push origin main
 	To https://github.com/{YOUR_USERNAME}/alx-zero_day.git
 	 * [new branch]      master -> master              
 	```
+---
+#### 1
+**1. Repo-session**
+- Create a new directory called `0x03-git` in your `alx-zero_day` repo.
 
+- Make sure you include a not empty `README.md` in your directory:
 
-
+	- at the root of your repository alx-zero_day
+	- AND in the directory 0x03-git
+- And important part: Make sure your commit and push your code to Github
+---
+#### 2
+**2. Coding fury road**
+- Create these directories at the root of your project: `bash`, `c`, `js`
+- Create these empty files:
+	- `c/c_is_fun.c`
+	- `js/main.js`
+	- `js/index.js`
+- Create a file `bash/alx` with these two lines inside: `#!/bin/bash` and `echo "ALX"`
+- Create a file `bash/school` with these two lines inside: `#!/bin/bash` and `echo "School"`
+- Add all these new files to git
+- Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
+---
+#### 3
+**3. Collaboration is the base of a company**
+---
+#### 4
+**4. Collaboration: be up to date**
+---
+####5
+**5. HAAA what did you do???**
+---
+####6
+**6. Never push too much**
