@@ -41,9 +41,9 @@ $ git push origin main
 
 	- Clone your repository
 	```
-	root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-zero_day.git                  
-Cloning into 'alx-zero_day'...
-warning: You appear to have cloned an empty repository.
+	root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-zero_day.git
+	Cloning into 'alx-zero_day'...
+	warning: You appear to have cloned an empty repository.
 	```
 	- Replace {YOUR_PERSONAL_TOKEN} with your token from step 1
 
