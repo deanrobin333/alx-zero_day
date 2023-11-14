@@ -1,6 +1,7 @@
 # Project 
-**0x03. Git**
-# Table of Contents
+## **0x03. Git**
+---
+## Table of Contents
 - [Author Details](#author-details)
 - [Project Description](#project-description)
 - [Tasks](#tasks)
