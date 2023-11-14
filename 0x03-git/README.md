@@ -1,5 +1,5 @@
 # Project 
-** 0x03. Git
+**0x03. Git**
 # Table of Contents
 - [Author Details](#author-details)
 - [Project Description](#project-description)
