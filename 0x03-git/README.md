@@ -6,8 +6,13 @@
 - [Project Description](#project-description)
 - [Tasks](#tasks)
 	- [2. Coding fury road](#2)
+<<<<<<< HEAD
 	- [3. Collaboration is the base of a company](#3)
 	- [4. Collaboration: be up to date](#4)
+=======
+	- [](#3)
+	- [](#4)
+>>>>>>> update_script
 	- [](#5)
 	- [](#6)
 ---
@@ -35,6 +40,7 @@
     - File: `bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js`
 ---
 #### 3
+<<<<<<< HEAD
 **3. Collaboration is the base of a company**
 - For this project, create a branch `update_script` and in this branch:
 - Create an empty file named `bash/98`
@@ -71,10 +77,19 @@
     - GitHub repository: `alx-zero_day`
     - Directory: `0x03-git`
     - File: `README.md, up_to_date`
+=======
+**t**
+
+---
+#### 4
+**t**
+
+>>>>>>> update_script
 ---
 #### 5
 **t**
 
+<<<<<<< HEAD
 <br></br>
 
 ---
@@ -82,5 +97,10 @@
 **t**
 
 <br></br>
+=======
+---
+#### 6
+**t**
+>>>>>>> update_script
 
 ---
