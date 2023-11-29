@@ -26,12 +26,10 @@
 - Create a file `bash/school` with these two lines inside: `#!/bin/bash` and `echo "School"`
 
 
---
-- *REPO*:
-- GitHub repository: `alx-zero_day`
-- Directory: `0x03-git`
-- File: `bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js`
-
+- Repo
+    - GitHub repository: `alx-zero_day`
+    - Directory: `0x03-git`
+    - File: `bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js`
 ---
 #### 1
 **t**
