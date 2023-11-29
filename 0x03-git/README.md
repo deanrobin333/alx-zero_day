@@ -16,8 +16,15 @@
 
 ## Project Description
 - Task 0 and Task 1 done in [Main Repo](../0x03-git)
-- Task 0 and Task 1 and project description is described in this README [README](../README.md)
+- At the end of this project you should be able to reproduce and understand these command lines:
 
+```
+$ git clone <repo>
+$ touch test
+$ git add test
+$ git commit -m "Initial commit"
+$ git push origin main
+```
 ## Tasks
 #### 2
 **2. Coding fury road**
