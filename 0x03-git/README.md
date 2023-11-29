@@ -15,8 +15,8 @@
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
 
 ## Project Description
-- Task 0 and Task 1 done in ../0x03-git
-- Task 0 and Task 1 and project description is described here ../README.md
+- Task 0 and Task 1 done in [Main Repo](../0x03-git)
+- Task 0 and Task 1 and project description is described in this README [README](../README.md)
 
 ## Tasks
 #### 2
