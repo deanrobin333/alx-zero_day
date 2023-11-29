@@ -7,7 +7,7 @@
 - [Tasks](#tasks)
 	- [2. Coding fury road](#2)
 	- [3. Collaboration is the base of a company](#3)
-	- [](#4)
+	- [4. Collaboration: be up to date](#4)
 	- [](#5)
 	- [](#6)
 ---
@@ -61,14 +61,26 @@
 ---
 #### 4
 **4. Collaboration: be up to date**
-- Updated from terminal
-
+- For this task – **and only for this task** – please update your file `README.md` in the main branch from GitHub.com. It’s the **only time** you are allowed to update and commit from GitHub interface.
+- After you have done that, in your terminal:
+	- Get all changes of the main branch locally (i.e. your `README.md` file will be updated)
+	- Create a new file `up_to_date` at the root of your directory and in it, write the git command line used
+	- Add `up_to_date` to git, commit (message: “How to be up to date in git”), and push to the origin
+<br></br>
+- Repo
+    - GitHub repository: `alx-zero_day`
+    - Directory: `0x03-git`
+    - File: `README.md, up_to_date`
 ---
 #### 5
 **t**
 
+<br></br>
+
 ---
 #### 6
 **t**
+
+<br></br>
 
 ---
