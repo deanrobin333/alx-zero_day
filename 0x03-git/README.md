@@ -6,7 +6,10 @@
 - [Project Description](#project-description)
 - [Tasks](#tasks)
 	- [2. Coding fury road](#2)
-	- [](#1)
+	- [](#3)
+	- [](#4)
+	- [](#5)
+	- [](#6)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -31,7 +34,19 @@
     - Directory: `0x03-git`
     - File: `bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js`
 ---
-#### 1
+#### 3
+**t**
+
+---
+#### 4
+**t**
+
+---
+#### 5
+**t**
+
+---
+#### 6
 **t**
 
 ---
