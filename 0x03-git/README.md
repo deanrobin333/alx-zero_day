@@ -6,13 +6,8 @@
 - [Project Description](#project-description)
 - [Tasks](#tasks)
 	- [2. Coding fury road](#2)
-<<<<<<< HEAD
 	- [3. Collaboration is the base of a company](#3)
 	- [4. Collaboration: be up to date](#4)
-=======
-	- [](#3)
-	- [](#4)
->>>>>>> update_script
 	- [](#5)
 	- [](#6)
 ---
@@ -84,12 +79,10 @@
 #### 4
 **t**
 
->>>>>>> update_script
 ---
 #### 5
 **t**
 
-<<<<<<< HEAD
 <br></br>
 
 ---
@@ -101,6 +94,5 @@
 ---
 #### 6
 **t**
->>>>>>> update_script
 
 ---
