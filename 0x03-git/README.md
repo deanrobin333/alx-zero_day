@@ -60,7 +60,8 @@
 
 ---
 #### 4
-**t**
+**4. Collaboration: be up to date**
+- Updated from terminal
 
 ---
 #### 5
