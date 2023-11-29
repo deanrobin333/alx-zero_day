@@ -7,7 +7,6 @@
 - [Tasks](#tasks)
 	- [0. Create and setup your Git and GitHub account](#0)
 	- [1. Repo-session](#1)
-	- [](#2)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
