@@ -36,7 +36,6 @@
     - File: `bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js`
 ---
 #### 3
-<<<<<<< HEAD
 **3. Collaboration is the base of a company**
 - For this project, create a branch `update_script` and in this branch:
 - Create an empty file named `bash/98`
@@ -73,9 +72,6 @@
     - GitHub repository: `alx-zero_day`
     - Directory: `0x03-git`
     - File: `README.md, up_to_date`
-=======
-**t**
-
 ---
 #### 5
 **5. HAAA what did you do???**
