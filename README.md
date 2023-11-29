@@ -29,7 +29,7 @@
 ## Tasks
 #### 0
 **0. Create and setup your Git and GitHub account**
-**Repo:**
+Repo:
 	- GitHub repository: `alx-zero_day`
 	- File: `README.md`
 ---
@@ -40,6 +40,6 @@ Make sure you include a not empty `README.md` in your directory:
 	- at the root of your repository `alx-zero_day`
 	- AND in the directory `0x03-git`
 And important part: **Make sure your commit and push your code to Github - otherwise the Checker will always fail.**
-**Repo:**
+Repo:
 	- GitHub repository: `alx-zero_day`
 ---
