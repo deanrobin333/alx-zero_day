@@ -25,6 +25,8 @@
 - Create a file `bash/alx` with these two lines inside: `#!/bin/bash` and `echo "ALX"`
 - Create a file `bash/school` with these two lines inside: `#!/bin/bash` and `echo "School"`
 
+
+--
 - *REPO*:
 - GitHub repository: `alx-zero_day`
 - Directory: `0x03-git`
