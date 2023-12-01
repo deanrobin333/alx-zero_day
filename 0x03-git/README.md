@@ -26,7 +26,8 @@ $ git commit -m "Initial commit"
 $ git push origin main
 ```
 ## Tasks
-#### 2: [Table of Contents](#table-of-contents)
+#### 2
+[Table of Contents](#table-of-contents)
 **2. Coding fury road**
 - Create these directories at the root of your project: `bash`, `c`, `js`
 - Create these empty files:
